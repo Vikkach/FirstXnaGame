@@ -1,0 +1,80 @@
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\FirstXnaGame.exe
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\FirstXnaGame.pdb
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\SharpDX.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\SharpDX.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\obj\x86\Debug\FirstXnaGame.csprojResolveAssemblyReference.cache
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\obj\x86\Debug\FirstXnaGame.exe
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\FirstXnaGame\FirstXnaGame\obj\x86\Debug\FirstXnaGame.pdb
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\Windows Start Code\FirstXnaGame\obj\x86\Debug\FirstXnaGame.exe
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\2 Res and Load Cont\Windows Start Code\FirstXnaGame\obj\x86\Debug\FirstXnaGame.pdb
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\obj\x86\Debug\FirstXnaGame.exe
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\obj\x86\Debug\FirstXnaGame.pdb
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\FirstXnaGame.exe.config
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\FirstXnaGame.exe
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\FirstXnaGame.pdb
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\MonoGame.Framework.dll
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.dll
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.xml
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\3 Your First XNA Game Resolution and Loading Content\Lecture Materials\Windows Start Code\FirstXnaGame\obj\x86\Debug\FirstXnaGame.csprojResolveAssemblyReference.cache
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\FirstXnaGame.exe.config
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\obj\x86\Debug\FirstXnaGame.exe
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\obj\x86\Debug\FirstXnaGame.pdb
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\FirstXnaGame.exe
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\FirstXnaGame.pdb
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.dll
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.xml
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\obj\x86\Debug\FirstXnaGame.csprojResolveAssemblyReference.cache
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\Content\graphics\teddybear0.xnb
