@@ -78,3 +78,8 @@ D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\
 D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\SharpDX.Direct3D9.xml
 D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\obj\x86\Debug\FirstXnaGame.csprojResolveAssemblyReference.cache
 D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\Content\graphics\teddybear0.xnb
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\Content\graphics\teddybear1.xnb
+D:\Projects\RRP\2017\june\Новая папка\Windows Start Code\FirstXnaGame\bin\Windows\Debug\Content\graphics\teddybear2.xnb
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\FirstXnaGame\bin\Windows\Debug\FirstXnaGame.exe.config
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\FirstXnaGame\obj\x86\Debug\FirstXnaGame.exe
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\FirstXnaGame\obj\x86\Debug\FirstXnaGame.pdb

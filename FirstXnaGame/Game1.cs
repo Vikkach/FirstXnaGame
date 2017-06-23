@@ -14,7 +14,11 @@ namespace FirstXnaGame
 
         //teddy bear drawing support
         Texture2D bear0;
+        Texture2D bear1;
+        Texture2D bear2;
         Rectangle drawRectangle0;
+        Rectangle drawRectangle1;
+        Rectangle drawRectangle2;
 
         public Game1()
         {
@@ -51,6 +55,10 @@ namespace FirstXnaGame
             //load teddy bears and uild draw rectangles
             bear0 = Content.Load<Texture2D>(@"graphics\teddybear0");
             drawRectangle0 = new Rectangle(150, 100, bear0.Width, bear0.Height);
+            bear1 = Content.Load<Texture2D>(@"graphics\teddybear1");
+            drawRectangle1 = new Rectangle(250, 100, bear1.Width, bear1.Height);
+            bear2 = Content.Load<Texture2D>(@"graphics\teddybear2");
+            drawRectangle2 = new Rectangle(350, 100, bear2.Width, bear2.Height);
         }
 
         /// <summary>
@@ -89,6 +97,8 @@ namespace FirstXnaGame
             spriteBatch.Begin();
 
             spriteBatch.Draw(bear0, drawRectangle0,  Color.White);
+            spriteBatch.Draw(bear1, drawRectangle1, Color.White);
+            spriteBatch.Draw(bear2, drawRectangle2, Color.White);
 
             spriteBatch.End();
 

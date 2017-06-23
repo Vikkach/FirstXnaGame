@@ -64,12 +64,14 @@
       <Link>Content\graphics\teddybear0.xnb</Link>
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <None Include="..\FirstXnaGameContent\bin\graphics\teddybear1.xnb">
+    <Content Include="..\FirstXnaGameContent\bin\graphics\teddybear1.xnb">
       <Link>Content\graphics\teddybear1.xnb</Link>
-    </None>
-    <None Include="..\FirstXnaGameContent\bin\graphics\teddybear2.xnb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\FirstXnaGameContent\bin\graphics\teddybear2.xnb">
       <Link>Content\graphics\teddybear2.xnb</Link>
-    </None>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <None Include="app.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -1,0 +1,90 @@
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\Content\graphics\teddybear0.xnb
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\Content\graphics\teddybear1.xnb
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\Content\graphics\teddybear2.xnb
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\MovingTeddyBears.exe
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\MovingTeddyBears.pdb
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\SharpDX.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\SharpDX.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\obj\x86\Debug\MovingTeddyBears.csprojResolveAssemblyReference.cache
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\obj\x86\Debug\MovingTeddyBears.exe
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\MovingTeddyBears\MovingTeddyBears\obj\x86\Debug\MovingTeddyBears.pdb
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\Windows Start Code\MovingTeddyBears\obj\x86\Debug\MovingTeddyBears.exe
+D:\Dropbox\Courses\GDD 1200\Udemy\Lecture Materials\Section 5 MonoGame Basics\4 More Practice\Windows Start Code\MovingTeddyBears\obj\x86\Debug\MovingTeddyBears.pdb
+D:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\obj\x86\Debug\MovingTeddyBears.exe
+D:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\obj\x86\Debug\MovingTeddyBears.pdb
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\obj\x86\Debug\MovingTeddyBears.exe
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\obj\x86\Debug\MovingTeddyBears.pdb
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\MovingTeddyBears.exe.config
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\Content\graphics\teddybear0.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\Content\graphics\teddybear1.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\Content\graphics\teddybear2.xnb
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\MovingTeddyBears.exe
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\MovingTeddyBears.pdb
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\MonoGame.Framework.dll
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\SharpDX.dll
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\SharpDX.XAudio2.dll
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\SharpDX.DXGI.dll
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\SharpDX.Direct3D11.dll
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\SharpDX.Direct2D1.dll
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\SharpDX.XInput.dll
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\SharpDX.RawInput.dll
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\SharpDX.Direct3D9.dll
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\MonoGame.Framework.xml
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\SharpDX.xml
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\SharpDX.XAudio2.xml
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\SharpDX.DXGI.xml
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\SharpDX.Direct3D11.xml
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\SharpDX.Direct2D1.xml
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\SharpDX.XInput.xml
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\SharpDX.RawInput.xml
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\bin\Windows\Debug\SharpDX.Direct3D9.xml
+F:\Coursera On Demand MOOC\Lectures\Module 5 XNA Basics\5 More XNA Practice\Lecture Materials\Windows Start Code\MovingTeddyBears\obj\x86\Debug\MovingTeddyBears.csprojResolveAssemblyReference.cache
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\MovingTeddyBears.exe.config
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\obj\x86\Debug\MovingTeddyBears.exe
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\obj\x86\Debug\MovingTeddyBears.pdb
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\Content\graphics\teddybear0.xnb
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\Content\graphics\teddybear1.xnb
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\Content\graphics\teddybear2.xnb
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\MovingTeddyBears.exe
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\MovingTeddyBears.pdb
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\SharpDX.dll
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\SharpDX.xml
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Projects\RRP\2017\june\Новая папка\FirstXnaGame\MovingTeddyBears\obj\x86\Debug\MovingTeddyBears.csprojResolveAssemblyReference.cache
